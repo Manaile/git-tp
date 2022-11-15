@@ -1,3 +1,5 @@
-function seConnecter = () =>{
-    return console.log ("connexion réussi")
+
+
+function logOut = () =>{
+    return console.log ("dconnexion réussi")
 };
