@@ -1,5 +1,5 @@
 
 
-function logOut = () =>{
-    return console.log ("dconnexion réussi")
+function logOut = (param) =>{
+    return console.log ("déconnexion réussi")
 };
